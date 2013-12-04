@@ -1,3 +1,6 @@
+This is latest knife-ec2 (dec 2013) with addition of --associate-public-ip as described in pull 152 here https://github.com/opscode/knife-ec2/pull/152
+Latest addition is for "server create" to return public ip of the new instance as dns name is not always provided by aws
+
 Knife EC2
 =========
 [![Gem Version](https://badge.fury.io/rb/knife-ec2.png)](http://badge.fury.io/rb/knife-ec2)
